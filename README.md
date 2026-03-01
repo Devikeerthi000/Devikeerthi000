@@ -66,10 +66,6 @@ Because production AI is not about creativity — it’s about control.
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Devikeerthi000&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Devikeerthi000&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Devikeerthi000&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## <span style="color:#8B5CF6;">Connect</span>
 <p align="center">
